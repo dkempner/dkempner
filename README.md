@@ -4,8 +4,7 @@ Hi! Thanks for stopping by.
 
 ### About me
 
-I'm a frontend engineer currently living in SF (but I really want to be back in SD 🏖️).
-
+I'm a frontend engineer currently living in SD 🏖️
 
 ### Software interests
 
@@ -14,7 +13,3 @@ I'm a frontend engineer currently living in SF (but I really want to be back in 
 ### Other Interests
 
 * Ping pong
-
-### Contact me
-
-* WIP

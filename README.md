@@ -14,6 +14,6 @@ I'm a software engineer in San Diego 🏖️
 
 * ping pong, tennis
 * history
-* my puppy, [Uni](https://www.youtube.com/watch?v=-XHfX9gmO8E)
+* my puppy Uni
 
-![boop!](https://user-images.githubusercontent.com/2532112/108090670-b9eca680-702f-11eb-9711-0e44fd6ea477.gif)
+[![boop!](https://user-images.githubusercontent.com/2532112/108090670-b9eca680-702f-11eb-9711-0e44fd6ea477.gif)](https://www.youtube.com/watch?v=-XHfX9gmO8E)
